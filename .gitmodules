@@ -1,3 +1,6 @@
 [submodule "oswd"]
 	path = oswd
 	url = https://github.com/geethap44/oswd.git
+[submodule "subdir"]
+	path = subdir
+	url = ./subdir
